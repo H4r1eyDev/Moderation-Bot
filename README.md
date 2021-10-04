@@ -27,4 +27,5 @@ You can get support via my Discord. You can find my Discord here: https://discor
 ## Credits
 
 [Harley](https://discord.gg/ksv9GaZJ74) - Main Developer
+
 [Fuel Development](https://discord.gg/NXKWyCFDau) - Embed Ideas 
