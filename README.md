@@ -22,3 +22,9 @@ No. I don't want to set it up completely for you as if your server gets raided/d
 
 ## Where can I get support?
 You can get support via my Discord. You can find my Discord here: https://discord.gg/ksv9GaZJ74
+---
+
+## Credits
+
+[Harley](https://discord.gg/ksv9GaZJ74) - Main Developer
+[Fuel Development](https://discord.gg/NXKWyCFDau) - Embed Ideas 
