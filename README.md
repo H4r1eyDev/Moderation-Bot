@@ -19,3 +19,6 @@ in my Discord.
 
 ## Can you set it up for me? 
 No. I don't want to set it up completely for you as if your server gets raided/deleted then you could put me at blame, I don't want to be put to blame for that stuff, so I'll just walk you through it within my Discord.
+
+## Where can I get support?
+You can get support via my Discord. You can find my Discord here: https://discord.gg/ksv9GaZJ74
